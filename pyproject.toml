@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "jpmorgan-chase-stock-data-visualization"
 version = "0.1.0"
-description = "A Preswald application for visualizing all time JPMorgan Chase Stock Data 1980 - 2025."
+description = "A Preswald application for visualizing all time JPMorgan Chase Stock Data (1980 - 2025)."
 requires-python = ">=3.8"
 dependencies = [
     "preswald"
