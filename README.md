@@ -32,7 +32,7 @@ pip install preswald pandas plotly
 ```
 
 ### Running the Application
-1. Clone this repository and navigate to the project folder:
+1. Clone [this repository](https://github.com/devilkiller-ag/JP-Morgan-Chase-Stock-Visualization) and navigate to the project folder:
    ```bash
    git clone https://github.com/devilkiller-ag/JP-Morgan-Chase-Stock-Visualization.git
    cd JP-Morgan-Chase-Stock-Visualization

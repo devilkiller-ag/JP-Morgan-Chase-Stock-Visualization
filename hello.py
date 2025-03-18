@@ -2,9 +2,8 @@ import preswald as pw
 import pandas as pd
 import plotly.express as px
 
-pw.text("# All-time JPMorgan Chase Stock Data Visualization (1980 - 2025)")
-
 pw.text(
+    "# JPMorgan Chase Stock Data Visualization (1980 - 2025)\n"
     "## Context\n"
     "JPMorgan Chase & Co. is an American multinational financial services firm headquartered in New York City and incorporated in Delaware. It is the largest bank in the United States and the world's largest bank by market capitalization as of 2023.\n"
     "### End of Day Market Cap According to Different Sources\n"

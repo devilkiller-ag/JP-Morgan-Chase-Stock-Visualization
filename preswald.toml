@@ -1,12 +1,12 @@
 [project]
-title = "All time JPMorgan Chase Stock Data visualization (1980 - 2025)"
+title = "JPMorgan Chase Stock Data visualization (1980 - 2025)"
 version = "0.1.0"
 port = 8501
 slug = "ashmit-dev-jpmorgan-chase-stock-data-visualization"  # Required: Unique identifier for your project
 entrypoint = "hello.py"    # Required: Main script to run when executing preswald run
 
 [branding]
-name = "All time JPMorgan Chase Stock Data visualization (1980 - 2025)"
+name = "JPMorgan Chase Stock Data visualization (1980 - 2025)"
 logo = "images/logo.png"
 favicon = "images/favicon.ico"
 primaryColor = "#3535cc"
